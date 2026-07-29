@@ -38,7 +38,7 @@ Building scalable backend systems with Python, Django, FastAPI & AI-powered appl
 </a>
 
 </p>
----
+
 
 **ABOUT ME**
 
