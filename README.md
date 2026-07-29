@@ -40,7 +40,7 @@ Building scalable backend systems with Python, Django, FastAPI & AI-powered appl
 </p>
 
 
-**ABOUT ME**
+👤**ABOUT ME**
 
 I'm a passionate **Python Backend Developer** who enjoys designing scalable backend systems, building secure REST APIs, and developing AI-powered applications.
 
