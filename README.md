@@ -38,7 +38,7 @@ Building scalable backend systems with Python, Django, FastAPI & AI-powered appl
 </a>
 
 </p>
-# 💫 About Me
+ABOUT ME
 
 I'm a passionate **Python Backend Developer** who enjoys designing scalable backend systems, building secure REST APIs, and developing AI-powered applications.
 
@@ -62,7 +62,7 @@ I enjoy solving real-world problems, continuously learning modern technologies, 
 ## 🎨 Frontend Development
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,vite" />
+  <img src="https://skillicons.dev/icons?i=react,bootstrap,vite" />
 </p>
 
 ---
@@ -150,13 +150,13 @@ I enjoy solving real-world problems, continuously learning modern technologies, 
 <!--    FEATURED PROJECTS    -->
 <!-- ======================= -->
 
-# 🚀 Featured Projects
+**🚀 Featured Projects**
 
 Here are some of the projects I've built, showcasing my experience in backend development, REST APIs, databases, AI integration, and scalable system architecture.
 
 ---
 
-## 💰 Expense Tracking System
+**💰 Expense Tracking System**
 
 > Enterprise Expense Management Platform
 
@@ -243,54 +243,6 @@ Here are some of the projects I've built, showcasing my experience in backend de
 - 🧨 Diwali Crackers Management System
 
 👉 Explore my repositories to learn more about these projects.
-<!-- ======================= -->
-<!--    GITHUB ANALYTICS     -->
-<!-- ======================= -->
-
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img height="170em"
-src="https://github-readme-stats.vercel.app/api?username=Nandhangit&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img height="170em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nandhangit&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img
-src="https://streak-stats.demolab.com?user=Nandhangit&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=Nandhangit&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img
-src="https://github-profile-trophy.vercel.app/?username=Nandhangit&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
-</p>
 
 ---
 
@@ -304,15 +256,6 @@ src="https://komarev.com/ghpvc/?username=Nandhangit&label=Profile%20Views&color=
 </p>
 
 ---
-
-# ⚡ Contribution Snake
-
-<p align="center">
-
-<img
-src="https://raw.githubusercontent.com/Nandhangit/Nandhangit/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
 <!-- ======================= -->
 <!--   CERTIFICATIONS        -->
 <!-- ======================= -->
@@ -378,8 +321,6 @@ I'm continuously improving my backend architecture, system design, and AI engine
 </p>
 
 ---
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"/>
-<p align="center">
 
 ### ⭐ Thanks for visiting my profile!
 
@@ -388,3 +329,6 @@ If you like my projects, consider giving them a ⭐.
 Happy Coding! 🚀
 
 </p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"/>
+<p align="center">
