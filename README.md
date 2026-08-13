@@ -42,11 +42,14 @@ Building scalable backend systems with Python, Django, FastAPI & AI-powered appl
 
 👤**ABOUT ME**
 
-I'm a passionate **Python Backend Developer** who enjoys designing scalable backend systems, building secure REST APIs, and developing AI-powered applications.
+I am a results-driven **Python Backend Developer and AI Engineer** with 2+ years of experience in designing and developing scalable, secure, and high-performance backend applications. I specialize in **Python, Django, Django REST Framework, FastAPI, REST API development, and relational databases such as PostgreSQL and MySQL**.
 
-I specialize in creating clean architectures using **Python, Django, Django REST Framework, FastAPI, and SQL databases** while following industry best practices for maintainability, performance, and security.
+My experience includes building enterprise-grade backend systems, implementing **JWT authentication, role-based access control (RBAC), CRUD operations, data validation, database optimization, and third-party API integrations**. I have also worked with **Redis, Celery, Elasticsearch, Docker, Git, and Postman** to build reliable and production-ready applications.
 
-I enjoy solving real-world problems, continuously learning modern technologies, and contributing to projects that create meaningful impact.
+In addition to backend development, I have hands-on experience working with **AI/GenAI technologies, RAG pipelines, vector databases, LangChain/LangGraph, and LLM-based applications**. I enjoy solving complex technical problems, improving application performance, and transforming business requirements into clean and maintainable software solutions.
+
+I am continuously expanding my technical expertise and am passionate about building impactful products, learning emerging technologies, and contributing effectively to collaborative engineering teams.
+
 <!-- ======================= -->
 <!--       TECH STACK        -->
 <!-- ======================= -->
