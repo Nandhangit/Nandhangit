@@ -42,13 +42,14 @@ Building scalable backend systems with Python, Django, FastAPI & AI-powered appl
 
 👤**ABOUT ME**
 
-I am a results-driven **Python Backend Developer and AI Engineer** with 2+ years of experience in designing and developing scalable, secure, and high-performance backend applications. I specialize in **Python, Django, Django REST Framework, FastAPI, REST API development, and relational databases such as PostgreSQL and MySQL**.
+I am a **Python Backend Developer and AI Engineer** focused on designing and developing scalable, secure, and maintainable software solutions. My core expertise includes **Python, Django, Django REST Framework, FastAPI, RESTful API development, PostgreSQL, and MySQL**, with a strong emphasis on backend architecture, database design, authentication, authorization, data validation, and performance optimization.
 
-My experience includes building enterprise-grade backend systems, implementing **JWT authentication, role-based access control (RBAC), CRUD operations, data validation, database optimization, and third-party API integrations**. I have also worked with **Redis, Celery, Elasticsearch, Docker, Git, and Postman** to build reliable and production-ready applications.
+I have hands-on experience with **JWT Authentication, Role-Based Access Control (RBAC), CRUD operations, API integrations, asynchronous task processing, caching, search technologies, and containerized application development** using technologies such as **Redis, Celery, Elasticsearch, Docker, Git, and Postman**.
 
-In addition to backend development, I have hands-on experience working with **AI/GenAI technologies, RAG pipelines, vector databases, LangChain/LangGraph, and LLM-based applications**. I enjoy solving complex technical problems, improving application performance, and transforming business requirements into clean and maintainable software solutions.
+Alongside backend engineering, I work with **AI and Generative AI technologies**, including **RAG pipelines, vector databases, LangChain, LangGraph, embeddings, and LLM-based applications**. I am particularly interested in integrating AI capabilities into practical backend systems to build intelligent, efficient, and scalable applications.
 
-I am continuously expanding my technical expertise and am passionate about building impactful products, learning emerging technologies, and contributing effectively to collaborative engineering teams.
+I enjoy translating business requirements into **clean, reusable, and production-ready solutions**, solving complex technical challenges, improving system performance, and following best practices in software development. I continuously expand my technical knowledge and aim to contribute to **innovative products, collaborative engineering teams, and real-world technology solutions**.
+
 
 <!-- ======================= -->
 <!--       TECH STACK        -->
